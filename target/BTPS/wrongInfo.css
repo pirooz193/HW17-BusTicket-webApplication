@@ -1,0 +1,18 @@
+body{
+    background-image: url("oldBus.jpg");
+}
+
+.warnings{
+    margin: 250px 200px 200px 200px;
+}
+.alert-heading{
+    margin-left: 320px;
+}
+.spinners{
+    margin-left: 500px;
+}
+.links{
+    margin-left: 350px;
+    font-size: 20px;
+
+}
